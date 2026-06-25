@@ -29,7 +29,6 @@
   | `sync` | Real-time + restore sync engine |
   | `cloud` | Optional control plane — billing, catalog, relay. Never stores vault content |
   | `site` | [getbrainstorm.online](https://getbrainstorm.online) |
-  | `harness` | Orchestration hub — design docs, dev MCP server, dogfood harness |
 
   ---
 
